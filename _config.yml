@@ -1,0 +1,11 @@
+# basic options
+title: TANYA's GUIDES
+author: TANYA CHERNYSH
+email: tanyachernysh1988@gmail.com
+description: A very useful TECH blog
+twitter_username: tanyachernysh7
+github_username: tanyachernysh7
+
+# Build settings
+markdown: kramdown
+theme: minima
