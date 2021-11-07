@@ -1,0 +1,6 @@
+...
+layout: post
+title: first post in history
+...
+
+google docs 
