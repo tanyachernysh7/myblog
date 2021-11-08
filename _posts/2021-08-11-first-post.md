@@ -1,8 +1,3 @@
-...
-layout: Post
-title: My first post in history
-...
-
 # A brief user guide for Google Docs  
 ## Google Docs overview 
 
