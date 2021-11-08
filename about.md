@@ -13,7 +13,8 @@ There is a common view that the word technical deals only with mechanical or ele
 But technical is a very accurate type of work professionals in different fields do. 
 To my mind, the technical worth of any work is evaluated only through the ability to communicate it.
 People find it very difficult to write clearly and precisely. Some people have a natural talent to choose appropriate words, but the essence of effective writing is clear thinking. 
-So, “If you cannot write well, you cannot think well” (Oscar Wild). And it is doubtful that a person can’t think…
+So, “If you cannot write well, you cannot think well” (Oscar Wild).
+And it is doubtful that a person can’t think…
 
 Technical writing is not plain English.
 It consists of brief and concise sentences, repetitions, and a total lack of fine style. 
@@ -30,10 +31,12 @@ Apart from writing, a technical writer learns about the product and analyzes dat
 To my mind, in this very case, the technical writer does the same thing as a journalist. 
 The term technical writing covers a large sector in the field of communication.
 Some companies believe that technical writers are those who write instruction manuals, reports, specifications, and proposals. 
+
 Different forms and names for technical writing have been used, but the main thing for technical writers is to remain objective and factual about the subject matter they are dealing with. 
 The benefits of technical writing don’t come easy.
 You must contribute something of yourself to every piece you write, and this takes time, skill, and energy. 
 There’s only one commandment for a good technical writer: “Never write unless you are sure of the subject you cover ”.
+
 Try different spheres and decide what you like most.
 If you’re choosing a technical writer career, be ready to study a lot. 
 You need to be good at asking questions and working with different people. 
