@@ -1,90 +1,20 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-# A brief user guide for Google Docs  
-## Google Docs overview 
+Some people are lucky enough to discover what they are meant to be at an early age, but this is not about me.
+I’ve survived to my adulthood and still I don’t have even a glimpse of who I want to be. The modern world changes rapidly and provides opportunities to try on different areas. I suspect that my writing abilities are substandard because I’m eagerly trying to scribble this essay. Well, if we were good at everything the first time we tried, we wouldn’t know what we really loved.
+There is a common view that the word technical deals only with mechanical or electrical stuff, hence some people choose to be technical writers because they like technology. But technical is a very accurate type of work professionals in different fields do. To my mind, the technical worth of any work is evaluated only through the ability to communicate it. People find it very difficult to write clearly and precisely. Some people have a natural talent to choose appropriate words, but the essence of effective writing is clear thinking. So, “If you cannot write well, you cannot think well” (Oscar Wild). And it is doubtful that a person can’t think…
+Technical writing is not plain English. It consists of brief and concise sentences, repetitions, and a total lack of fine style. The only aim of the technical writer is to explain something clearly in order for any potential reader to understand these explanations.
+The key to technical writing is simplicity:
+- Sentences should be short.
+- Paragraphs should consist of only one briefly developed major idea. One-sentence paragraphs are common in technical writing.
+- Instructions should be presented in a logical way that helps not to overlook or confuse them.
+A good technical writer should learn how to extract basic points of information and then how to state each of them as a simple, declarative sentence. A good technical writer can make a difficult task easy and can quickly explain a complex piece of information. Apart from writing, a technical writer learns about the product and analyzes data to get knowledge about the product. To my mind, in this very case, the technical writer does the same thing as a journalist. The term technical writing covers a large sector in the field of communication. Some companies believe that technical writers are those who write instruction manuals, reports, specifications, and proposals. 
+Different forms and names for technical writing have been used, but the main thing for technical writers is to remain objective and factual about the subject matter they are dealing with. The benefits of technical writing don’t come easy. You must contribute something of yourself to every piece you write, and this takes time, skill, and energy. There’s only one commandment for a good technical writer: “Never write unless you are sure of the subject you cover ”.
+Try different spheres and decide what you like most. If you’re choosing a technical writer career, be ready to study a lot. You need to be good at asking questions and working with different people. If you’re diligent, accurate, and detail-oriented, if you enjoy a challenge, you might love a career as a technical writer. Besides, the only way to get better is to practice a lot. As a beginner, it’s going to take time to find your vocation and your branch in technical writing. Be patient with yourself and diligent with your work. Set aside time in your schedule for professional development. Keep challenging yourself and developing professional skills like writing and research. The more your skills develop, the more in demand you will be as a writer.
 
-
-  Google Docs is a free web-based application in which documents and spreadsheets can be created, edited, and stored online. Files can be accessed from any device with an Internet connection and a full-featured web browser.
-
-### Google Docs advantages
-
-  Google Docs is a word processing tool that helps users create, view, and edit documents online from any device. There are a number of Google Docs advantages:
-- Google Docs is a free tool.
-- Google Cloud Storage gives you access to your documents from any device.
-- Google Docs allows real-time collaboration.
-- Google Docs has powerful features and tools for editing documents.
-
-### Managing the content in Google Docs
-
-How to download a file in Google Docs
-To download a file in Google Docs:
-1. Open a document in Google Docs.
-2. In the toolbar, click **File**.
-3. Select **Download**.
-4. Choose a file type.
-
-![1](https://user-images.githubusercontent.com/88477186/140270520-554d08c4-5d7c-4c87-aa92-80b55a9c72b2.png)
-
-The file is successfully downloaded onto your device.
-
-How to manage the page settings in Google Docs
-To manage the page settings in Google Docs:
-1. Open a document in Google Docs.
-2. In the toolbar, click **File**.
-3. Select Page setup.
-4. Go to the setting you want to change (**Orientation**, **Paper size**, **Page color**, **Margins**) and make the necessary changes.
-5. Click **OK**.
-
- **Note**!
-         You can apply the default settings by clicking Set as default.   
-         ![2](https://user-images.githubusercontent.com/88477186/140279592-07357afe-423d-4dc4-9727-a76f22c63574.png)
-
-The page is successfully managed.
-
-How to print a file in Google Docs
-To print a file in Google Docs:
-1. Open a document in Google Docs.
-2. In the toolbar, click **File**.
-3. Select **Print**.
-4. In the open window, choose your print settings.
-5. Click **Print**.
-
-![3](https://user-images.githubusercontent.com/88477186/140279617-ceb71d7b-66af-43bb-8f2c-88046dd12b92.png)
-
-The file is successfully printed.
-
-How to format the text in Google Docs
-To format a text in Google Docs:
-1. Open a document in Google Docs.
-2. Select the text you want to change.
-3. In the toolbar, select the **Font** > **Font size**.
-
-![4](https://user-images.githubusercontent.com/88477186/140279684-6b68e7cd-1950-40c3-b563-b94998e5a618.png)
-
-5. Click the **Bold**, **Italic**, or **Underline** button.
-
-![5](https://user-images.githubusercontent.com/88477186/140279656-dc6fff90-25b2-4c9c-adba-027734a49c1e.png)
-
-7. Select the **Text color**.
-
-![6](https://user-images.githubusercontent.com/88477186/140279708-1c1b25ab-eb05-47a7-8d6c-8ef623a546e9.png)
-
-9. Select the **Highlight color**.
-
-![7](https://user-images.githubusercontent.com/88477186/140279730-f2f09bd5-c875-4016-9a67-7d9f450c8f3d.png)
-
-11. Click alignment buttons (**Left align**, **Center align**, **Right align**, **Justify**).
-
-![8](https://user-images.githubusercontent.com/88477186/140279756-2f75b696-6bf3-4e0f-8f69-bc3ea3031ae7.png)
-
-13. Click the **Line and paragraph** button.
-
-![9](https://user-images.githubusercontent.com/88477186/140279773-66324614-6b12-4992-8b42-37439af4592b.png)
-
-The text is successfully formatted.
 
 
 
