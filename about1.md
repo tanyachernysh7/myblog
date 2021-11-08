@@ -3,9 +3,7 @@ layout: page
 title: About the site
 ---
 
-# About the websie
-## General information about this website
-
+# General information abou
 Welcome to https://tanyachernysh7.github.io/myblog/, my first official website.
 Here you can find useful technical documentation.
 
