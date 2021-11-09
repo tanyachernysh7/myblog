@@ -10,6 +10,7 @@ To create a table:
 4. Click **Table** > **Insert Table**.
 5. Choose the number of rows and columns you need in your table. 
 
+![10](https://user-images.githubusercontent.com/88477186/140879349-72f0f082-f2d6-48f3-9f74-90dc9e1f789b.png)
 
 Google creates an empty table and puts it in your document. 
 
