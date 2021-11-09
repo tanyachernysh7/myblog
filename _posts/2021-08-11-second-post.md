@@ -12,7 +12,7 @@ To create a table:
 
 ![10](https://user-images.githubusercontent.com/88477186/140879349-72f0f082-f2d6-48f3-9f74-90dc9e1f789b.png)
 
-Google creates an empty table and puts it in your document. 
+An empty table is created and added into your document. 
 
 Press the tab key to move to the next cell in the table. 
 Use the up and down arrow keys to move between rows.
@@ -23,6 +23,10 @@ This way, you’re not trapped using a fixed structure if you need to add more d
 2. Click **Format**. 
 3. Select **Table**.
 4. Select an option to insert or delete a row or column. 
+
+![11](https://user-images.githubusercontent.com/88477186/140879371-4229ba66-a5a5-49ee-a57a-400a1bbdf224.png)
+
+A row or column is inserted or deleted.
 
 
 # FAQ
