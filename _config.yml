@@ -31,6 +31,11 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# If you want your website to generate an RSS feed, provide a description
+# The URL for the feed will be https://<your_website>/feed.xml
+rss-description: This website is a virtual proof that I'm awesom
+
+
 
 # Build settings
 markdown: kramdown
