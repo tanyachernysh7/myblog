@@ -1,6 +1,6 @@
 # Managing add-ons in Google Docs
 
-  Since add-ons are made by third-party content creators, Google cannot guarantee that all of them are safe, secure, or reliable.
+    Since add-ons are made by third-party content creators, Google cannot guarantee that all of them are safe, secure, or reliable.
 It's a good idea to read some of the reviews to see whether other users have had a good experience with the add-on.
 As part of the installation process, you have to receive the add-on certain permissions for the ability to view and manage all of the files in your Google Drive.
 If you're not comfortable granting these permissions, you should not install the add-on. 
