@@ -28,7 +28,7 @@ A single document can include a mix of portrait and landscape layouts.
 
 To change the orientation of a selection:
 1. Open a document in Google Docs.
-2. Highlight the text or image that you want to change the orientation 
+2. Highlight the text or image that you want to change the orientation. 
 3. Right-click on the text or image.
 4. Select Change page to landscape or Change page to portrait. 
 
