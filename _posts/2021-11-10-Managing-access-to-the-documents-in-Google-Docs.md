@@ -1,6 +1,6 @@
 # Managing access to the documents in Google Docs
 
- The ability to share documents and work collaboratively is one of the most useful things about Google Drive. 
+  The ability to share documents and work collaboratively is one of the most useful things about Google Drive. 
 Here are some tips on how to get started.
 
 ## How to share a single item with specific people?
