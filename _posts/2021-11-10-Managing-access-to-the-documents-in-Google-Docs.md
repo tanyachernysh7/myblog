@@ -95,8 +95,9 @@ To change who owns a file or folder in Drive:
 
 1. Go to Drive or a Docs, Sheets, or Slides home screen.
 2. Open the sharing box.
-3. In Drive select the file or folder > click the share icon.
-   In a Docs, Sheets, or Slides home screen open the file > click **Share**.
+3. In Drive select the **File** or **Folder**.
+4. Click the **Share** icon.
+   In a Docs, Sheets, or Slides home screen open the **File**>click **Share**.
 
 
 
