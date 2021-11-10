@@ -63,19 +63,19 @@ To format a text in Google Docs:
 
 ![5](https://user-images.githubusercontent.com/88477186/140279656-dc6fff90-25b2-4c9c-adba-027734a49c1e.png)
 
-7. Select the **Text color**.
+6. Select the **Text color**.
 
 ![6](https://user-images.githubusercontent.com/88477186/140279708-1c1b25ab-eb05-47a7-8d6c-8ef623a546e9.png)
 
-9. Select the **Highlight color**.
+7. Select the **Highlight color**.
 
 ![7](https://user-images.githubusercontent.com/88477186/140279730-f2f09bd5-c875-4016-9a67-7d9f450c8f3d.png)
 
-11. Click alignment buttons (**Left align**, **Center align**, **Right align**, **Justify**).
+8. Click alignment buttons (**Left align**, **Center align**, **Right align**, **Justify**).
 
 ![8](https://user-images.githubusercontent.com/88477186/140279756-2f75b696-6bf3-4e0f-8f69-bc3ea3031ae7.png)
 
-13. Click the **Line and paragraph** button.
+9. Click the **Line and paragraph** button.
 
 ![9](https://user-images.githubusercontent.com/88477186/140279773-66324614-6b12-4992-8b42-37439af4592b.png)
 
