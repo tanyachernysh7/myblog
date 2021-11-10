@@ -4,6 +4,8 @@
 You can create a new blank document, or you can create a new document based on a template.
 Google Docs has templates for several different types of documents, such as brochures, newsletters, and resumes.
 
+## How to create a blank document in Google Docs?
+
 To create a blank document:
 1. Open a folder in Google Drive.
 2. Click **New** button.
@@ -12,6 +14,8 @@ Select **Google Docs**.
 ![15](https://user-images.githubusercontent.com/88477186/141079530-6173083f-7db4-4f2f-9919-46de6ee91854.png)
 
 A new blank document is created.
+
+## How to create a document from a template in Google Docs?
 
 To create a document from a template:
 1. Click **New**.
