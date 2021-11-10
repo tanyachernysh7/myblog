@@ -1,9 +1,11 @@
 # Adding tables in Google Docs
 
-With Google Docs you can add tables to your document, set up an easy-to-understand comparison using rows and columns to present information.
+  With Google Docs you can add tables to your document, set up an easy-to-understand comparison using rows and columns to present information.
 In Google Docs, you create a table first and then fill it in with information.
 
-To create a table:
+ ## How to create a table in Google Docs?
+ 
+To create a table in Google Docs:
 1. Open the document in which you want to insert a table.
 2. Put the pointer where you want the table to appear
 3. Click **Add** in upper-left. 
