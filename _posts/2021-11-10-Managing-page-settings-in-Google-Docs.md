@@ -2,6 +2,8 @@
 
 You can update your page size, margins, and change your page orientation in Google Docs.
 
+## How to change page setup in Google Docs? 
+
 To change page setup of a Google document:
 1. Open a document in Google Docs.
 2. Click **File**>**Page setup**.
@@ -21,6 +23,8 @@ To change page setup of a Google document:
 Mix page orientations in a single Google Doc
 
 A single document can include a mix of portrait and landscape layouts.
+
+## How to change the orientation of a selection in Google Docs
 
 To change the orientation of a selection:
 1. Open a document in Google Docs.
