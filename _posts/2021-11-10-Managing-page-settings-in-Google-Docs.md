@@ -6,7 +6,7 @@ You can update your page size, margins, and change your page orientation in Goog
 
 To change page setup of a Google document:
 1. Open a document in Google Docs.
-2. Click **File**>**Page setup**.
+2. Click **File** > **Page setup**.
 
 ![14](https://user-images.githubusercontent.com/88477186/141085601-629a2687-1326-4953-864b-33e110377a31.png)
 
