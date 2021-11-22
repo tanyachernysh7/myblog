@@ -14,6 +14,7 @@ To install an add-on:
 ![1](https://user-images.githubusercontent.com/88477186/141090954-9d24a7c3-7ca4-45dd-b3f9-83307979bf63.png)
 
 **Tip**!
+
 If you know what you're looking for, you can enter a keyword into the search bar at the top of the page.
 
 ![2](https://user-images.githubusercontent.com/88477186/141091290-49fc0aa2-103a-41ee-b14a-3f3bb49ef75d.png)
@@ -21,6 +22,7 @@ If you know what you're looking for, you can enter a keyword into the search bar
 3. Click an add-on to learn more about it.
 
  **Tip**! 
+ 
 It's best to use add-ons with high ratings. A window appears with more information about the add-on.
 
 4. If you decide you trust the add-on and want to use it, click **Install**.
@@ -29,6 +31,7 @@ It's best to use add-ons with high ratings. A window appears with more informati
 Congratulations! The add-on is now installed. Another dialog box may appear that shows you how to use the add-on. When you're ready, click **Next**.
 
 **Note**!
+
 Some add-ons ask you to create an account or subscribe to a paid plan. 
 
 ## How to uninstall an add-on?
