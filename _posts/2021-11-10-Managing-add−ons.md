@@ -1,6 +1,6 @@
 # Managing add-ons in Google Docs
 
-    Since add-ons are made by third-party content creators, Google cannot guarantee that all of them are safe, secure, or reliable.
+   Since add-ons are made by third-party content creators, Google cannot guarantee that all of them are safe, secure, or reliable.
 It's a good idea to read some of the reviews to see whether other users have had a good experience with the add-on.
 As part of the installation process, you have to receive the add-on certain permissions for the ability to view and manage all of the files in your Google Drive.
 If you're not comfortable granting these permissions, you should not install the add-on. 
@@ -13,12 +13,10 @@ To install an add-on:
 
 ![1](https://user-images.githubusercontent.com/88477186/141090954-9d24a7c3-7ca4-45dd-b3f9-83307979bf63.png)
 
-
 **Tip**!
 If you know what you're looking for, you can enter a keyword into the search bar at the top of the page.
 
 ![2](https://user-images.githubusercontent.com/88477186/141091290-49fc0aa2-103a-41ee-b14a-3f3bb49ef75d.png)
-
 
 3. Click an add-on to learn more about it.
 
